@@ -21,7 +21,7 @@ Built a contact book application using Python. This application allows users to 
 
 ****
 
-## Password Generator {#password-generator}
+## Password Generator
 The Password Generator project aims to create a tool that generates strong and random passwords for users. It allows users to specify the desired length of the password and generates a password containing a combination of letters (both uppercase and lowercase), digits, and special characters.
 
 ### Usage:
@@ -30,7 +30,7 @@ The Password Generator project aims to create a tool that generates strong and r
 3. The script will generate and display the password.
 4. Enter 'Q' to exit the application.
 
-## Calculator {#calculator}
+## Calculator
 The Calculator project implements a simple calculator with basic arithmetic operations. Users can perform addition, subtraction, multiplication, and division by entering two numbers and selecting the desired operation.
 
 ### Usage:
