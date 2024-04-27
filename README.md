@@ -16,9 +16,6 @@ Developed a password generator application using Python. Users can specify the d
 ### 4. [Rock-Paper-Scissors Game](Rock-Paper-Scissors-Game)
 Implemented the classic Rock-Paper-Scissors game using Python. The application prompts users to choose rock, paper, or scissors, generates a random choice for the computer, determines the winner based on the selections, and displays the result.
 
-### 5. Contact Book
-Built a contact book application using Python. This application allows users to store and manage contact information, including name, phone number, email, and address. Features include adding, viewing, searching, updating, and deleting contacts.
-
 ****
 
 ## To-Do List Application
